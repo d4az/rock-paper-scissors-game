@@ -134,5 +134,5 @@ const game = () => {
   };
 
 
-  game();
+game();
 
