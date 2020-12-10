@@ -17,8 +17,6 @@ const game = () => {
       });
     };
 
-
-
     const plainggame =() =>{
       const options = document.querySelectorAll(".options button");
       const playerhand = document.getElementById("player-hand");
