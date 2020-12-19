@@ -1,2 +1,4 @@
 # rock-paper-scissors-game
-This is basisc rock paper scissors game using vanila javascript 
+
+This is Basic Javascript Rock Paper Sissors game usig vanila javascript
+
