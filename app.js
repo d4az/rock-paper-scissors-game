@@ -4,8 +4,7 @@ const game = () => {
     let pScore = 0;
     let cScore = 0;
     
-  
-    //Start the Game
+    //start the game
     const startGame = () => {
       const playBtn = document.querySelector(".intro button");
       const introScreen = document.querySelector(".intro");
