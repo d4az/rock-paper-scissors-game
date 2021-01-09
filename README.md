@@ -1,3 +1,3 @@
-# rock-paper-scissors-game
+# rock-paper-scissors-game 
 
-This is Basic Javascript Rock Paper Sissors game Usig Vanila Javascript.
+This is Basic Javascript Rock Paper Sissors game Usig Vanila Javascrip
